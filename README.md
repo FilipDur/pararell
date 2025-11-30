@@ -15,7 +15,7 @@ Cílem je vytvořit nástroj, který dokáže načíst data z `orders.csv` a pro
 ### 2. Návrh
 
 Projekt je rozdělen do dvou hlavních souborů:
-- `main.py`: Hlavní spouštěcí skript, který se stará o interakci s uživatelem (zobrazení výsledků).
+- `app.py`: Hlavní spouštěcí skript, který se stará o interakci s uživatelem (zobrazení výsledků).
 - `data_processor.py`: Modul obsahující logiku pro zpracování dat (načítání, sumarizace).
 
 ### Jak spustit
